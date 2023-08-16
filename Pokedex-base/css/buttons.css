@@ -1,0 +1,85 @@
+/* .circle-button {
+  position: relative;
+  display: flex;
+  border: none;
+  background-color: #163355;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  margin: 0;
+  overflow: hidden;
+  transform: translateX(80%) translateY(40%);
+}
+
+
+.actions {
+  margin: 0;
+  font-size: 0;
+}
+
+.z-button {
+  background-color: #FECB2F;
+  color: white;
+  border: none;
+  border-radius: .25rem;
+  cursor: pointer;
+  inline-size: 1.88rem;
+  margin-left: 3rem;
+  block-size: .3rem;
+  padding: 0;
+  text-decoration: none;
+  align-items: center;
+  transform: translateX(200%) translateY(-250%);
+  overflow: hidden;
+}
+
+.z-button:last-child {
+  background-color:#163355;
+}
+/* 
+.screen-button {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  inline-size: 1rem;
+  block-size: 1rem;
+  margin-inline-start: 2rem;
+  padding: 0;
+  text-decoration: none;
+  transform: translateX(500%) translateY(20%); */
+/* } */
+
+/* .button-t {
+position: relative; */ 
+
+
+/*   
+  position: relative;
+  display: flex;
+  border: none;
+  background-color:black;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  overflow: hidden;
+  width: 3rem;
+  height: .2rem;
+  margin: 1rem; */
+/* }
+
+.t-button  {
+
+}
+
+.u-button  {
+
+}
+.v-button  {
+
+}
+

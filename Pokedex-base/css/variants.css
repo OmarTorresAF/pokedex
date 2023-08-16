@@ -1,0 +1,34 @@
+.variants{
+    grid-area: variants;
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.button-variantsPrimary{
+inline-size: 3rem;
+block-size: 3rem;
+background-color: var(--secondary);
+border-radius:50%;
+filter: drop-shadow(2px 2px 0 var(--black));
+}
+
+.group-buttonSecondary{
+    display: flex;
+    gap: 1.5rem;
+}
+
+.button-variantsSecondary{
+    inline-size: 1.75rem;
+    block-size: .5rem;
+    background-color: var(--secondary);
+    filter: drop-shadow(2px 2px 0 var(--black));
+
+    border-radius:.5rem;
+}
+
+.button-variantsSecondary.is-primary{
+    background-color: #FECB2F;
+    filter: drop-shadow(2px 2px 0 var(#FECB2F));
+}
